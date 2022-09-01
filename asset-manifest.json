@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/effects-machine/static/css/main.ba73ec14.css",
+    "main.js": "/effects-machine/static/js/main.74ae9e31.js",
+    "index.html": "/effects-machine/index.html",
+    "main.ba73ec14.css.map": "/effects-machine/static/css/main.ba73ec14.css.map",
+    "main.74ae9e31.js.map": "/effects-machine/static/js/main.74ae9e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba73ec14.css",
+    "static/js/main.74ae9e31.js"
+  ]
+}
