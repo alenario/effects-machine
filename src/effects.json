@@ -1,0 +1,902 @@
+[
+  {
+      "id": 1,
+      "span": "#01",
+      "title": "The Ambiguity Effect",
+      "caption": "Suspicious looking twins",
+      "paragraph1": "We tend to avoid options that we consider to be ambiguous or appearing to be missing information. Because we dislike uncertainty, we favor alternatives with more certain outcomes, thus not considering options equally.",
+      "paragraph2": "On a larger scale, it can induce people or institutions to commit to failing systems, rather than introducing new policies or programs with the potential for improvement. People with higher levels of ambiguity aversion are more likely to display the ambiguity effect.",
+      "img": "../images/1-the-ambiguity-effect.png"
+  },
+  {
+      "id": 2,
+      "span": "#02",
+      "title": "The Assembly Bonus Effect",
+      "caption": "Several robots combining into a more powerful robot",
+      "paragraph1": "Effect in which group members combine their individual knowledge in a manner that produces higher quality outcomes than the simple aggregation or accumulation of group members' individual efforts.",
+      "paragraph2": "Though it is believed that multidisciplinary groups might achieve higher outcomes on certain tasks, this effect is widely disputed and there are negative effects that might arise from certain dynamics in group settings.",
+      "img": "../images/2-the-assembly-bonus-effect.png"
+  },
+  {
+      "id": 3,
+      "span": "#03",
+      "title": "The Audience Effect",
+      "caption": "Performer in front of an audience",
+      "paragraph1": "A change in behavior caused by being observed by another person, or even the belief that one is being observed by another person. It was first noticed in the late 1800s by Norman Triplett who found that bicyclists were slower when racing a clock than when racing against other cyclists.",
+      "paragraph2": "In humans, performance is often improved when the action is simple and well learned but may be inhibited when it is complicated, novel, difficult to perform or when the person believes the behavior might incur the audience's disapproval.",
+      "img": "../images/3-the-audience-effect.png"
+  },
+  {
+      "id": 4,
+      "span": "#04",
+      "title": "The Baader–Meinhof Effect",
+      "caption": "Pregnant woman walking in a park",
+      "paragraph1": "A frequency bias in which, after noticing something for the first time, there is a tendency to notice it more often, leading someone to believe that it has an increased frequency of occurrence.",
+      "paragraph2": "The illusion involves two cognitive biases: selective attention (noticing things that are important to us and disregarding the rest) followed by confirmation bias (looking for things that support our hypotheses while disregarding potential counter-evidence).",
+      "img": "../images/4-the-baader–meinhof-effect.png"
+  },
+  {
+      "id": 5,
+      "span": "#05",
+      "title": "The Barnum Effect",
+      "caption": "Astonished person surrounded by horoscope constellations",
+      "paragraph1": "The phenomenon that occurs when individuals believe that personality descriptions apply specifically to them (more so than to other people), despite the fact that the description is actually filled with information that applies to everyone.",
+      "paragraph2": "The Barnum Effect came from the phrase often attributed (perhaps falsely) to showman P. T. Barnum that a 'sucker' is born every minute. Psychics, horoscopes and palm readers make use of the Barnum Effect to convince people that their description of them is highly special and unique and could never apply to anyone else.",
+      "img": "../images/5-the-barnum-effect.png"
+  },
+  {
+      "id": 6,
+      "span": "#06",
+      "title": "The Birthday-Number Effect",
+      "caption": "Person looking happily at a date marked in a calendar",
+      "paragraph1": "The subconscious tendency to prefer the numbers in the date of their birthday over other numbers. The birthday is associated with the self, and hence the numbers in the birthday are preferred, despite the fact that they appear in many other contexts.",
+      "paragraph2": "A similar effect, the name-letter effect, has been found for letters: people tend to prefer the letters that are part of their name. The birthday-number effect and the name-letter effect are significantly correlated. In psychological assessments, the Number Preference Task is used to estimate implicit self-esteem.",
+      "img": "../images/6-the-birthday-number-effect.png"
+  },
+  {
+      "id": 7,
+      "span": "#07",
+      "title": "The Boomerang Effect",
+      "caption": "The great persuader",
+      "paragraph1": "A situation in which efforts to persuade someone result instead in an opposite outcome. Research suggests that this effect occurs primarily because when a person feels their freedom of choice is being infringed upon, they may react by taking the contrary position.",
+      "paragraph2": "There are certain situations in which the effect is more likely to happen; such as referencing a negative source or when the position of the recipient is far away from the position of the communicator, thus highlighting a contrast between the two.",
+      "img": "../images/7-the-boomerang-effect.png"
+  },
+  {
+      "id": 8,
+      "span": "#08",
+      "title": "The Bouba/Kiki Effect",
+      "caption": "Kiki and her pet Bouba",
+      "paragraph1": "A form of sound symbolism in which the word ‘bouba' is associated with a round shape and ‘kiki' with a spiky shape. A type of correspondence between speech sounds and visual properties with potentially deep implications for the evolution of spoken language.",
+      "paragraph2": "First observed in 1929 by Wolfgang Köhler and tested across different languages and cultures, this effect suggests that the naming of objects is not completely arbitrary..",
+      "img": "../images/8-the-bouba-kiki-effect.png"
+  },
+  {
+      "id": 9,
+      "span": "#09",
+      "title": "The Bystander Effect",
+      "caption": "Bystanders standing around indifferently",
+      "paragraph1": "A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present. The theory was prompted by the murder of Kitty Genovese about which it was wrongly reported that 38 bystanders watched passively.",
+      "paragraph2": "If a single individual is asked to complete a task alone, the sense of responsibility will be strong, and there will be a positive response; however, if a group is required to complete a task together, each individual in the group will have a weak sense of responsibility, and will often shrink back in the face of difficulties or responsibilities.",
+      "img": "../images/9-the-bystander-effect.png"
+  },
+  {
+      "id": 10,
+      "span": "#10",
+      "title": "The Cheerleader Effect",
+      "caption": "The cheerleader effect, Ukiyo-e",
+      "paragraph1": "Also known as the group attractiveness effect, it is the cognitive bias which causes people to think individuals are more attractive when they are in a group.",
+      "paragraph2": "The phrase was coined by the fictional character Barney Stinson in an episode of the television series 'How I Met Your Mother', first aired in November 2008. Barney points out to his friends a group of women that initially seem attractive, but who are all unattractive when examined individually.",
+      "img": "../images/10-the-cheerleader-effect.png"
+  },
+  {
+      "id": 11,
+      "span": "#11",
+      "title": "The Cinderella Effect",
+      "caption": "Oil painting of a fairy Godmother",
+      "paragraph1": "The phenomenon of higher incidences of different forms of child abuse and mistreatment by stepparents than by biological parents. It takes its name from the fairy tale character Cinderella, which is about a girl who is mistreated by her stepsisters and stepmother.",
+      "paragraph2": "Evolutionary psychologists describe the effect as a byproduct of a bias towards kin, and a conflict between reproductive partners of investing in young that are unrelated to one partner.",
+      "img": "../images/11-the-cinderella-effect.png"
+  },
+  {
+      "id": 12,
+      "span": "#12",
+      "title": "The Cocktail Party Effect",
+      "caption": "A well-dressed group of snobs",
+      "paragraph1": "The phenomenon of the brain's ability to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, such as when a partygoer can focus on a single conversation in a noisy room.",
+      "paragraph2": "Listeners have the ability to both segregate different stimuli into different streams, and subsequently decide which streams are most pertinent to them. Thus, it has been proposed that one's sensory memory subconsciously parses all stimuli and identifies discrete pieces of information by classifying them by salience.",
+      "img": "../images/12-the-cocktail-party-effect.png"
+  },
+  {
+      "id": 13,
+      "span": "#13",
+      "title": "The Contrast Effect",
+      "caption": "Twins, in the style of Alphonse Mucha",
+      "paragraph1": "A cognitive bias that distorts our perception of something when we compare it to something else, by enhancing the differences between the both of them.",
+      "paragraph2": "For example, the contrast effect can make an item appear lighter than it actually is when it's placed against a dark background, or it can make an expensive product appear cheaper when it's presented next to a more expensive product.",
+      "img": "../images/13-the-contrast-effect.png"
+  },
+  {
+      "id": 14,
+      "span": "#14",
+      "title": "The Coolidge Effect",
+      "caption": "Rooster with the head of Calvin Coolidge",
+      "paragraph1": "The renewal of sexual behavior after the presentation of a novel sexual partner which possibly occurs as the result of habituation and dishabituation processes.",
+      "paragraph2": "The term comes from a joke about Calvin Coolidge and his wife, when being shown [separately] an experimental government farm. When Mrs. Coolidge came to the chicken yard she noticed a rooster mating frequently. When asking the attendant how often that happened, she was told, 'Dozens of times each day'. Mrs. Coolidge said, 'Tell that to the President when he comes'. Upon being told, he asked, 'Same hen every time?'. The reply was, 'Oh, no, Mr. President, a different hen every time'. President: 'Tell that to Mrs. Coolidge'.",
+      "img": "../images/14-the-coolidge-effect.png"
+  },
+  {
+      "id": 15,
+      "span": "#15",
+      "title": "The Cross-Race Effect",
+      "caption": "Narcissus gazing at his own reflection",
+      "paragraph1": "The tendency to more easily recognize faces that belong to one's own racial group. The phenomenon has been used to identify and explain one of the factors that may cause inaccuracies in eyewitness testimony.",
+      "paragraph2": "Social scientists have found that witnesses often struggle to properly identify people of other races based on facial recognition, while they don't have the same problems identifying someone of their own race.",
+      "img": "../images/15-the-cross-race-effect.png"
+  },
+  {
+      "id": 16,
+      "span": "#16",
+      "title": "The Curse of Knowledge Effect",
+      "caption": "A flustered teacher",
+      "paragraph1": "A cognitive bias that occurs when an individual assumes that other individuals have the background knowledge to understand. The more familiar you are with something, the harder it is to put yourself in the shoes of someone who's not familiar with that thing.",
+      "paragraph2": "In a classroom setting, teachers may have difficulties because they cannot put themselves in the position of the students. It also explains the danger behind thinking about learning based on what appears best to faculty members, as opposed to what has been verified with students.",
+      "img": "../images/16-the-curse-of-knowledge-effect.png"
+  },
+  {
+      "id": 17,
+      "span": "#17",
+      "title": "The Diderot Effect",
+      "caption": "Denis Diderot's scarlet robe",
+      "paragraph1": "The scenario of buying something new and replacing old possessions with items that match the new one, even if it leads to a spiral of overconsumption. The effect was first described in Denis Diderot's essay 'Regrets on Parting with My Old Dressing Gown'.",
+      "paragraph2": "Compared to his elegant new dressing gown, the rest of his things began to seem tawdry and so he became dissatisfied that they did not live up to the elegance of his new possession. The phenomenon also illustrates how consumers align purchases with their sense of identity.",
+      "img": "../images/17-the-diderot-effect.png"
+  },
+  {
+      "id": 18,
+      "span": "#18",
+      "title": "The Dunning–Kruger Effect",
+      "caption": "A confident idiot",
+      "paragraph1": "A phenomenon that occurs when a person's lack of knowledge in a certain area causes them to overestimate their own competence. Unaware of their deficiencies, such people generally assume that they are not deficient.",
+      "paragraph2": "The effect is named after David Dunning and Justin Kruger, two social psychologists who performed a series of investigations in which people who scored in the lowest percentiles on grammar, humor, and logic tests dramatically overestimated how well they had performed.",
+      "img": "../images/18-the-dunning–kruger-effect.png"
+  },
+  {
+      "id": 19,
+      "span": "#19",
+      "title": "The Einstellung Effect",
+      "caption": "The stubborn man, oil painting",
+      "paragraph1": "A type of fixed mindset which causes humans to repeat the use of 'tried and true' strategies for problem solving, even when simpler and better alternatives exist. Einstellung literally means 'setting' as well as a person's 'attitude' in German.",
+      "paragraph2": "Essentially, this is one of the human brain's ways of finding an appropriate solution/behavior as efficiently as possible. The detail is that though finding the solution is efficient, the solution itself is not or might not be.",
+      "img": "../images/19-the-einstellung-effect.png"
+  },
+  {
+      "id": 20,
+      "span": "#20",
+      "title": "The Endowment Effect",
+      "caption": "Child holding on to a teddy bear",
+      "paragraph1": "A phenomenon in which an individual places a higher value on an object that they already own than the value they would place on that same object if they did not own it, it is especially powerful with items that have an emotional significance to the individual.",
+      "paragraph2": "Research has identified two main psychological reasons as to what causes the endowment effect, ownership; people will value something that they already own more than a similar item they do not own, and loss aversion; the pain of losing $100 is often far greater than the joy gained in finding the same amount.",
+      "img": "../images/20-the-endowment-effect.png"
+  },
+  {
+      "id": 21,
+      "span": "#21",
+      "title": "The Face Superiority Effect",
+      "caption": "City streets full of faces",
+      "paragraph1": "The phenomena of how all individuals perceive and encode other human faces in memory. Rather than perceiving and encoding single features (nose, eyes, mouth), we register a human face as one holistic unified element.",
+      "paragraph2": "Other studies confirming the holistic processing theory involve the inversion condition, similar to the Thatcher Effect, where inverted, distorted, or disoriented faces are not as easily recognized. While most objects in general are difficult to recognize when inverted, inverted faces cause a particular impairment in recognition.",
+      "img": "../images/21-the-face-superiority-effect.png"
+  },
+  {
+      "id": 22,
+      "span": "#22",
+      "title": "The False Fame Effect",
+      "caption": "A skeleton wearing sunglasses and a hat",
+      "paragraph1": "When people are given a list of non-famous names and asked to indicate if the names are famous 24 hours later, more of these names will be incorrectly remembered as famous than without the delay.",
+      "paragraph2": "This source-monitoring error occurs because while participants are no longer able to recall the specific circumstances in which they previously encountered the names, the names remain familiar and this sense of familiarity is falsely attributed to fame.",
+      "img": "../images/22-the-false-fame-effect.png"
+  },
+  {
+      "id": 23,
+      "span": "#23",
+      "title": "The False-Consensus Effect",
+      "caption": "A military parade",
+      "paragraph1": "A pervasive cognitive bias that causes people to 'see their own behavioral choices and judgments as relatively common and appropriate to existing circumstances'. In other words, they assume that personal qualities, beliefs, and actions are relatively widespread through the general population.",
+      "paragraph2": "One of the possible causes of the false consensus effect involves what is known as the availability heuristic. When we are trying to estimate how common or likely something is, we tend to look at the examples and experiences that come to mind most readily.",
+      "img": "../images/23-the-false-consensus-effect.png"
+  },
+  {
+      "id": 24,
+      "span": "#24",
+      "title": "The False-Uniqueness Effect",
+      "caption": "Several identical robots",
+      "paragraph1": "An attributional type of cognitive bias that describes how people tend to view their traits, and personal attributes as unique when in reality they are not. This is measured by looking at the difference between estimates that people make about how many of their peers share a certain trait and the actual number of peers who report these traits and behaviors.",
+      "paragraph2": "People often think that they are more unique than others in regard to desirable traits. This has been shown in a variety of studies, where, for example, people believe that they are better drivers than the average driver, less prejudiced than the average resident in their town, or more hardworking in group projects than others when they are actually not.",
+      "img": "../images/24-the-false-uniqueness-effect.png"
+  },
+  {
+      "id": 25,
+      "span": "#25",
+      "title": "The Florence Nightingale Effect",
+      "caption": "Florence Nightingale holding a nightingale",
+      "paragraph1": "The Florence Nightingale effect is a trope where a caregiver falls in love with their patient, even if very little communication or contact takes place outside of basic care. Feelings may fade once the patient is no longer in need of care.",
+      "paragraph2": "The effect is named for Florence Nightingale, a pioneer in the field of nursing in the second half of the 19th century and her care would forever change the way hospitals treated patients. There is no record of her having ever fallen in love with one of her patients.",
+      "img": "../images/25-the-florence-nightingale-effect.png"
+  },
+  {
+      "id": 26,
+      "span": "#26",
+      "title": "The Flynn Effect",
+      "caption": "Art nouveau poster of a man with a very large brain",
+      "paragraph1": "The Flynn effect refers to the consistent upward drift in IQ test scores across generations which has been shown to be approximately 3 points per decade. It was named after James R. Flynn, who did much to document it and promote awareness of its implications.",
+      "paragraph2": "According to the theory, the increase in IQ scores can in part be ascribed to improvements in education and better nutrition. However, studies in Denmark, Norway and the United Kingdom have shown that in recent times, the Flynn effect may have not only ended, but begun to reverse.",
+      "img": "../images/26-the-flynn-effect.png"
+  },
+  {
+      "id": 27,
+      "span": "#27",
+      "title": "The Focusing Effect",
+      "caption": "Monkey wearing glasses, Romanticist art",
+      "paragraph1": "A cognitive bias that occurs when a person places too much importance or emphasis on a selected detail rather than considering the 'larger picture' - this can lead to errors in predicting a future outcome.",
+      "paragraph2": "In numeric anchoring, once the value of the anchor is set, subsequent arguments, estimates, etc. made by an individual may change from what they would have otherwise been without the anchor.",
+      "img": "../images/27-the-focusing-effect.png"
+  },
+  {
+      "id": 28,
+      "span": "#28",
+      "title": "The Framing Effect",
+      "caption": "Man holding an empty frame",
+      "paragraph1": "The cognitive bias wherein an individual's choice from a set of options is influenced more by how the information is worded or presented, than by the information itself. Common framings draw attention to either the positive gain or the negative loss associated with an option. We are susceptible to this sort of framing because we tend to avoid loss.",
+      "paragraph2": "The theory was introduced by Daniel Kahneman and Amos Tversky. The authors posit that previous literature has found that 'framing bias would be mitigated or eliminated if individuals thought more carefully and did more research about their choices'.",
+      "img": "../images/28-the-framing-effect.png"
+  },
+  {
+      "id": 29,
+      "span": "#29",
+      "title": "The Generation Effect",
+      "caption": "Thinking hard, Ukiyo-e",
+      "paragraph1": "The phenomenon where information is better remembered if it is actively created from one's own mind rather than simply read in a passive way. The effect appears promising as a strategy for learning, particularly for remembering educational material.",
+      "paragraph2": "Despite rather extensive analysis of the generation effect, the processes underlying it are not fully understood. Theories suggest that active generation increases cognitive effort, conceptual processing, item distinctiveness, and semantic processing.",
+      "img": "../images/29-the-generation-effect.png"
+  },
+  {
+      "id": 30,
+      "span": "#30",
+      "title": "The Golem Effect",
+      "caption": "Golem destroying the city",
+      "paragraph1": "The Golem effect describes the process where superiors (such as teachers or managers) anticipate low performance from a subordinate, causing the very behavior they predict.",
+      "paragraph2": "According to Jewish folklore, in the 16th century a rabbi from Prague created a Golem from clay to protect the city. Its creator knew that given the opportunity, the creature would bring about trouble and destruction, something which comes to pass, thus Golem had to be destroyed by its creator.",
+      "img": "../images/30-the-golem-effect.png"
+  },
+  {
+      "id": 31,
+      "span": "#31",
+      "title": "The Google Effect",
+      "caption": "The Internet, digital art",
+      "paragraph1": "The tendency to forget information that can be found readily online by using Internet search engines, also known as 'digital amnesia'. According to the first study about the Google effect people are less likely to remember certain details they believe will be accessible online.",
+      "paragraph2": "The Google effect suggests that the digital world is changing the way that we think. We are less likely to digest or deeply encode information and instead, only remember in which places we can access that information.",
+      "img": "../images/31-the-google-effect.png"
+  },
+  {
+      "id": 32,
+      "span": "#32",
+      "title": "The Halo Effect",
+      "caption": "Girl with halo above her head",
+      "paragraph1": "The halo effect is a cognitive bias that claims that positive impressions of people, brands, and products in one area positively influence our feelings in another area. An example is when one assumes that a good-looking person is also an overall good person.",
+      "paragraph2": "This error in judgment reflects one's individual preferences, prejudices, ideology, and social perception. The effect occurs because when we form impressions of others, we do not rely solely on objective information; instead, we actively construct an image that fits in with what we already know.",
+      "img": "../images/32-the-halo-effect.png"
+  },
+  {
+      "id": 33,
+      "span": "#33",
+      "title": "The Hawthorne Effect",
+      "caption": "Scientists inside a fishbowl working on a lightbulb",
+      "paragraph1": "The tendency to work harder and perform better when being participants in an experiment. The term is often used to suggest that individuals may change their behavior due to the attention they receive from researchers rather than the manipulation of independent variables.",
+      "paragraph2": "The effect was discovered in the context of research conducted at the Hawthorne Western Electric plant, and in the most famous of its experiments, the focus of the study was to determine whether the amount of light that workers received would affect productivity. However, employee productivity decreased once the experiment was over.",
+      "img": "../images/33-the-hawthorne-effect.png"
+  },
+  {
+      "id": 34,
+      "span": "#34",
+      "title": "The Hedonic Treadmill",
+      "caption": "Rat wearing a suit running on a wheel",
+      "paragraph1": "The observed tendency of humans to quickly return to a relatively stable level of happiness despite positive or negative events or life changes, also known as hedonic adaptation. According to the theory, as a person's income increases, expectations and desires rise in tandem, which results in no permanent gain in happiness.",
+      "paragraph2": "For the individual, hedonic adaptation suggests that pleasure is always fleeting and that the higher your baseline level, the harder it is for you to experience happiness because new stimuli must surpass that baseline.",
+      "img": "../images/34-the-hedonic-treadmill.png"
+  },
+  {
+      "id": 35,
+      "span": "#35",
+      "title": "The Hostile Media Effect",
+      "caption": "An angry television set",
+      "paragraph1": "The hostile media effect occurs when supporters or opponents of an issue perceive balanced news coverage of that issue to be biased against their own side. Nonpartisans, on the other hand, would view this same content to be relatively unbiased.",
+      "paragraph2": "Increasing devotion to a particular side of an issue leads to increasing levels of biased information processing, demonstrating that audiences do not passively receive media content but, rather, selectively interpret it in light of their own values and predispositions.",
+      "img": "../images/35-the-hostile-media-effect.png"
+  },
+  {
+      "id": 36,
+      "span": "#36",
+      "title": "The Hot-Cold Empathy Gap",
+      "caption": "An angry man with his head on fire",
+      "paragraph1": "The tendency to underestimate the influence of varying mental states on behavior and make decisions that only satisfy current emotions or feelings. ‘Hot' visceral states are influenced by hunger, sexual desire, fear, exhaustion, or other strong emotions. ‘Cold' mental states are those not influenced by emotion and are more rational and logical.",
+      "paragraph2": "Although we may strive to be rational decision-makers, we need to acknowledge the way that our visceral states make us act, in order to be able to better predict our future behavior when our emotional mindset has changed.",
+      "img": "../images/36-the-hot-cold-empathy-gap.png"
+  },
+  {
+      "id": 37,
+      "span": "#37",
+      "title": "The Imposter Syndrome",
+      "caption": "The Imposter Syndrome, digital art",
+      "paragraph1": "The psychological occurrence in which an individual doubts their skills, talents, or accomplishments and has an internalized fear of being exposed as a fraud. Despite external evidence of their competence, those experiencing this phenomenon do not believe they deserve their success or luck.",
+      "paragraph2": "When impostor syndrome was first conceptualized, it was viewed as a phenomenon that was common among high-achieving females. Further research has shown that it affects both males and females, in the collective sense that the affected are relatively equally distributed among genders.",
+      "img": "../images/37-the-imposter-syndrome.png"
+  },
+  {
+      "id": 38,
+      "span": "#38",
+      "title": "The Irrelevant Speech Effect",
+      "caption": "A yelling rooster",
+      "paragraph1": "A phenomenon in which when people are asked to recall a list of items, their performance is usually worse when the presentation of the list is accompanied by irrelevant speech. The speech does not need to be in a language that the participant knows or even real speech.",
+      "paragraph2": "One theory attributes the disruption to interference in working memory; visual items are translated into a phonological code that is stored in the same part of memory as irrelevant speech. Another attributes the effect to a disruption of order information; items are remembered, but information about the order is lost.",
+      "img": "../images/38-the-irrelevant-speech-effect.png"
+  },
+  {
+      "id": 39,
+      "span": "#39",
+      "title": "The Kewpie Doll Effect",
+      "caption": "A Kewpie doll",
+      "paragraph1": "A tendency for infant-like facial features, such as a lengthened forehead, big eyes and a rounded face to be perceived as cute and lovable and elicit favorable responses, such as motivating parents to take care of their children. It is believed that such features increase the individual's chance of survival and likelihood that their genes will be passed onto future generations.",
+      "paragraph2": "Research has shown that mothers of infants who have Kewpie doll-like appearances show more affection and play more often with their baby than mothers of less attractive babies. These features are said to resemble a Kewpie doll, a brand of toys conceived as comic strip characters, the name ‘Kewpie' comes from cupids.",
+      "img": "../images/39-the-kewpie-doll-effect.png"
+  },
+  {
+      "id": 40,
+      "span": "#40",
+      "title": "The Kuleshov Effect",
+      "caption": "The Kuleshov Effect",
+      "paragraph1": "A film editing effect demonstrated by Russian film-maker Lev Kuleshov in the 1910s and 1920s. It is a mental phenomenon by which viewers derive more meaning from the interaction of two sequential shots than from a single shot in isolation.",
+      "paragraph2": "When shown a short film of the expressionless face of Ivan Mosjoukine alternated with a bowl of soup, a girl in a coffin and a woman on a divan, viewers attributed different emotions to the actor; first hunger, then grief and finally desire, despite the shot of the actor being the same each time.",
+      "img": "../images/40-the-kuleshov-effect.png"
+  },
+  {
+      "id": 41,
+      "span": "#41",
+      "title": "The Lady Macbeth Effect",
+      "caption": "Lady Macbeth",
+      "paragraph1": "An alleged priming effect believed to occur when people who have done something wrong feel a need to wash their hands or body in order to clear their conscience. The reasoning being that physical cleanliness can be a substitute for moral purity.",
+      "paragraph2": "'Out, damn spot! Out I say!' In Macbeth's fifth act, Lady Macbeth's role in the treacherous murder of Duncan takes its toll, and she begins obsessively washing her hands to alleviate her guilty conscience.",
+      "img": "../images/41-the-lady-macbeth-effect.png"
+  },
+  {
+      "id": 42,
+      "span": "#42",
+      "title": "The Lake Wobegon Effect",
+      "caption": "A proud boy-scout",
+      "paragraph1": "The human tendency to overestimate one's achievements and capabilities in relation to others. It is named for the fictional town of Lake Wobegon from the radio series A Prairie Home Companion, where, according to Garrison Keillor, 'all the children are above average'.",
+      "paragraph2": "The phenomenon has been observed among drivers, CEOs, stock market analysts, college students, and state education officials, among others. Experiments have repeatedly shown that most people believe that they possess attributes that are better or more desirable than average.",
+      "img": "../images/42-the-lake-wobegon-effect.png"
+  },
+  {
+      "id": 43,
+      "span": "#43",
+      "title": "The Less-is-better Effect",
+      "caption": "Dinner set with a few broken pieces",
+      "paragraph1": "The less-is-better effect is a type of preference reversal that occurs when the lesser or smaller alternative of a proposition is preferred when evaluated separately, but not evaluated together.",
+      "paragraph2": "One study presented two dinner set options. Option A included 40 pieces, nine of which were broken. Option B included 24 pieces, all of which were intact. Option A was superior, as it included 31 intact pieces. When evaluated separately, individuals were willing to pay a higher price for set B. In a joint evaluation of both options, Option A resulted in higher willingness to pay.",
+      "img": "../images/43-the-less-is-better-effect.png"
+  },
+  {
+      "id": 44,
+      "span": "#44",
+      "title": "The Levels-of-Processing Effect",
+      "caption": "Depths of the ocean",
+      "paragraph1": "The way in which information is encoded affects how well it is remembered. Information that is encoded on a deeper level, through meaningful association, is easier to recall.",
+      "paragraph2": "Shallow processing (e.g., based on phonemic and orthographic components) leads to a fragile memory trace that is susceptible to rapid decay. Conversely, deep processing (e.g., relating new information to other ideas and knowledge.) results in a more durable memory trace.",
+      "img": "../images/44-the-levels-of-processing-effect.png"
+  },
+  {
+      "id": 45,
+      "span": "#45",
+      "title": "The Martha Mitchell Effect",
+      "caption": "Richard Nixon, digital art",
+      "paragraph1": "The process by which a psychiatrist, psychologist or other medical professional labels a patient's accurate perception of real events as delusional, resulting in misdiagnosis.",
+      "paragraph2": "Martha Mitchell was the wife of John Mitchell, United States Attorney General in the Nixon administration. When she alleged that White House officials were engaged in illegal activities, her claims were attributed to mental illness. Ultimately, however, the facts of the Watergate scandal vindicated her and garnered her the label 'The Cassandra of Watergate'.",
+      "img": "../images/45-the-martha-mitchell-effect.png"
+  },
+  {
+      "id": 46,
+      "span": "#46",
+      "title": "The Matthew Effect",
+      "caption": "Winged and advantaged executive",
+      "paragraph1": "This phenomenon is sometimes summarized by the adage 'the rich get richer and the poor get poorer'. Those who start from a place of advantage, like intelligence, fame, wealth, or skill, will have the opportunity to accrue more of that advantage compared to others.",
+      "paragraph2": "The term was coined to describe how eminent scientists will often get more credit than unknown researchers, even if their work is similar. Its name is derived from a verse in the Gospel of Matthew which reads 'For unto every one that has shall be given, and he shall have abundance: but from him that has not shall be taken away even that which he has'.",
+      "img": "../images/46-the-matthew-effect.png"
+  },
+  {
+      "id": 47,
+      "span": "#47",
+      "title": "The Mere-Exposure Effect",
+      "caption": "Astounded by a painting",
+      "paragraph1": "A psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In social psychology, this effect is sometimes called the familiarity principle.",
+      "paragraph2": "The effect has been demonstrated with many kinds of things, including words, Chinese characters, paintings, pictures of faces, geometric figures, and sounds. In studies of interpersonal attraction, the more often people see a person, the more pleasing and likable they find that person.",
+      "img": "../images/47-the-mere-exposure-effect.png"
+  },
+  {
+      "id": 48,
+      "span": "#48",
+      "title": "The Mere Ownership Effect",
+      "caption": "Sitting on the roof",
+      "paragraph1": "A phenomenon typically demonstrated in a paradigm in which some participants in an experiment are randomly assigned to own a good ('owners') by receiving it for free. Other participants are randomly assigned to simply evaluate the same good without receiving it.",
+      "paragraph2": "Participants who own the good typically rate it as more attractive or as liking it more than do participants who do not own it. It is not necessary to actually own a good to exhibit the mere ownership effect. Simply touching or imagining that one owns a good is enough to instantiate the mere ownership effect.",
+      "img": "../images/48-the-mere-ownership-effect.png"
+  },
+  {
+      "id": 49,
+      "span": "#49",
+      "title": "The Misinformation Effect",
+      "caption": "An oil painting of Bigfoot",
+      "paragraph1": "A phenomenon in which a person's recall of episodic memories becomes less accurate because of post-event information. The effect is more likely when the passage of time allows the original memory to fade.",
+      "paragraph2": "Most people don't appreciate how much misinformation can alter memory. In the 1990s, experiments suggested that even fully fake, traumatic false memories can be planted in someone's mind, such as memories of animal attack or drowning. Participants can even recite these false memories confidently and vividly.",
+      "img": "../images/49-the-misinformation-effect.png"
+  },
+  {
+      "id": 50,
+      "span": "#50",
+      "title": "The Modality Effect",
+      "caption": "Wearing VR set and headphones, vaporwave",
+      "paragraph1": "A learning effect which occurs when a mixed mode (partly visual and partly auditory) presentation of information is more effective than when the same information is presented in a single mode (either visual or auditory alone).",
+      "paragraph2": "Recall is more likely if the sequence is spoken aloud than if it is read silently. Most people are familiar with the experience of briefly retaining speech as if in a mental tape recorder and occasionally using this 'echoic' memory to do a double take.",
+      "img": "../images/50-the-modality-effect.png"
+  },
+  {
+      "id": 51,
+      "span": "#51",
+      "title": "The Mozart Effect",
+      "caption": "Mozart with headphones",
+      "paragraph1": "The theory that listening to the music of Mozart may temporarily boost scores on one portion of an IQ test. Popular science versions of the theory make the claim that 'listening to Mozart makes you smarter'.",
+      "paragraph2": "A meta-analysis of studies that have replicated the original study shows that there is little evidence that listening to Mozart has any particular effect on spatial reasoning. The author of the original study has stressed that listening to Mozart has no effect on general intelligence.",
+      "img": "../images/51-the-mozart-effect.png"
+  },
+  {
+      "id": 52,
+      "span": "#52",
+      "title": "Munchausen Syndrome",
+      "caption": "Hypochondria",
+      "paragraph1": "A psychological disorder where someone pretends to be ill or deliberately produces symptoms of illness in themselves. Their main intention is to assume the ‘sick role' so that people care for them and they are the center of attention.",
+      "paragraph2": "The name is derived from Baron Munchausen, a literary character loosely based on 18th century German nobleman Hieronymus Karl Friedrich, known for the storytelling of his adventures during the Russo-Turkish war. Induced illness, also known as Munchausen's by proxy is where a person fakes or induces illness in a person under their care, such as a mother and her child.",
+      "img": "../images/52-munchausen-syndrome.png"
+  },
+  {
+      "id": 53,
+      "span": "#53",
+      "title": "Naive Realism",
+      "caption": "Living in the clouds",
+      "paragraph1": "The tendency to believe that our perception of the world reflects it exactly as it is, unbiased and unfiltered. People do not believe their emotions, past experiences, or cultural identities affect the way they perceive the world and thus believe others see it in the same way as they do.",
+      "paragraph2": "Naïve realism causes people to exaggerate differences between themselves and others. Psychologists believe that it can spark and exacerbate conflict, as well as create barriers to negotiation.",
+      "img": "../images/53-naive-realism.png"
+  },
+  {
+      "id": 54,
+      "span": "#54",
+      "title": "The Name-Letter Effect",
+      "caption": "Child with a balloon shaped like the letter A",
+      "paragraph1": "The tendency of people to prefer the letters in their name over other letters in the alphabet. Whether subjects are asked to rank all letters of the alphabet, rate each of the letters, choose the letter they prefer out of a set of two, or pick a small set of letters they most prefer, on average people consistently like the letters in their own name the most.",
+      "paragraph2": "Crucially, subjects are not aware that they are choosing letters from their name. Most people like themselves; the name is associated with the self, and hence the letters of the name are preferred, despite the fact that they appear in many other words.",
+      "img": "../images/54-the-name-letter-effect.png"
+  },
+  {
+      "id": 55,
+      "span": "#55",
+      "title": "The Negativity Effect",
+      "caption": "Spilled milk, oil painting",
+      "paragraph1": "The notion that things of a more negative nature (e.g. unpleasant thoughts, emotions, harmful or traumatic events) have a greater effect on one's psychological state and processes than neutral or positive things, even when of equal intensity.",
+      "paragraph2": "Psychological research suggests that the negative bias influences motivation to complete a task. Earlier in human history, paying attention to bad, dangerous, and negative threats in the world was literally a matter of life and death and those more attuned to danger were more likely to survive.",
+      "img": "../images/55-the-negativity-effect.png"
+  },
+  {
+      "id": 56,
+      "span": "#56",
+      "title": "The Nocebo Effect",
+      "caption": "The Nocebo Effect",
+      "paragraph1": "A phenomenon said to occur when negative expectations of a patient regarding a treatment cause it to have a more negative effect than it otherwise would have. For example, when a patient anticipates a side effect of a medication, they can experience that effect even if the 'medication' is actually an inert substance.",
+      "paragraph2": "The complementary concept, the placebo effect, is said to occur when positive expectations improve an outcome. Some experts state that the nocebo effect may have a larger effect on clinical outcomes than the placebo effect as negative perceptions are formed much faster than positive ones.",
+      "img": "../images/56-the-nocebo-effect.png"
+  },
+  {
+      "id": 57,
+      "span": "#57",
+      "title": "The Novelty Effect",
+      "caption": "An executive on a segway",
+      "paragraph1": "The tendency for performance to initially improve when new technology is instituted, not because of any actual improvement in learning or achievement, but in response to increased interest in the new technology.",
+      "paragraph2": "In the context of psychology it represents the tendency for an individual to have the strongest stress response the first time that they are faced with a potentially threatening experience. Over time, as the novelty wears off, the stress response decreases.",
+      "img": "../images/57-the-novelty-effect.png"
+  },
+  {
+      "id": 58,
+      "span": "#58",
+      "title": "The Observer-Expectancy Effect",
+      "caption": "Scientists looking at a test subject",
+      "paragraph1": "A form of reactivity in which a researcher's cognitive bias causes them to subconsciously influence the participants of an experiment. Confirmation bias can lead to the experimenter interpreting results incorrectly because of the tendency to look for information that conforms to their hypothesis, and overlook information that argues against it.",
+      "paragraph2": "It is a significant threat to a study's internal validity, and is therefore typically controlled using a double-blind experimental design (both subjects and researchers are blinded to some information).",
+      "img": "../images/58-the-observer-expectancy-effect.png"
+  },
+  {
+      "id": 59,
+      "span": "#59",
+      "title": "The Out-Group Homogeneity Effect",
+      "caption": "A gang of rats wearing leather jackets",
+      "paragraph1": "The tendency to assume that the members of other groups are very similar to each other, in other words ‘all the same', particularly in contrast to the assumed diversity of the membership of one's own group.",
+      "paragraph2": "The out-group homogeneity effect has been found using a wide variety of different social groups, from political and racial groups to age and gender groups. The implications of this effect on stereotyping have been significant.",
+      "img": "../images/59-the-out-group-homogeneity-effect.png"
+  },
+  {
+      "id": 60,
+      "span": "#60",
+      "title": "The Overconfidence Effect",
+      "caption": "A bird puffing its chest",
+      "paragraph1": "A well-established bias in which a person's subjective confidence in his or her judgments is reliably greater than the objective accuracy of those judgments, especially when confidence is relatively high.",
+      "paragraph2": "Some manifestations of this effect are; overestimation, illusion of control, planning fallacy and illusory superiority. Surprisingly, experts suffer even more from the overconfidence effect than laypeople do.",
+      "img": "../images/60-the-overconfidence-effect.png"
+  },
+  {
+      "id": 61,
+      "span": "#61",
+      "title": "The Overjustification Effect",
+      "caption": "Sloth running a marathon",
+      "paragraph1": "This phenomenon occurs when an expected external incentive such as money or prizes decreases a person's intrinsic motivation to perform a task. Offering a reward for a previously unrewarded activity is a shift to extrinsic motivation and the undermining of pre-existing intrinsic motivation.",
+      "paragraph2": "Once rewards are no longer offered, interest in the activity is lost; prior intrinsic motivation does not return, and extrinsic rewards must be continuously offered as motivation to sustain the activity.",
+      "img": "../images/61-the-overjustification-effect.png"
+  },
+  {
+      "id": 62,
+      "span": "#62",
+      "title": "The Peltzman Effect",
+      "caption": "An oil painting of the Grim Reaper driving a go-kart",
+      "paragraph1": "A theory which states that people are more likely to engage in risky behavior when security measures have been mandated. The Peltzman Effect is named for Sam Peltzman's postulation about mandating the use of seatbelts in automobiles.",
+      "paragraph2": "Upon review of the data associated with the introduction of the first generation of automotive safety devices, it was found that the Peltzman Effect was quite real. While the ratio of fatalities went down in accidents, the rate of accidents was found to rise enough to offset the decreased fatality rate.",
+      "img": "../images/62-the-peltzman-effect.png"
+  },
+  {
+      "id": 63,
+      "span": "#63",
+      "title": "The Perruchet Effect",
+      "caption": "Japanese slot machine",
+      "paragraph1": "A psychological phenomenon in which a dissociation is shown between conscious expectation of an event and the strength or speed of a response to the event. This can be demonstrated by sequential analyses of consecutive trials such as cued go/no task.",
+      "paragraph2": "Over a run of consecutive go responses, participants perform the go task with increasing speed but display decreasing expectancy of the go response when asked to rate the likelihood of its occurrence, in line with a gambler's fallacy (the incorrect belief that if a particular event occurs more frequently than normal, it is less likely to happen in the future or vice versa).",
+      "img": "../images/63-the-perruchet-effect.png"
+  },
+  {
+      "id": 64,
+      "span": "#64",
+      "title": "The Picture Superiority Effect",
+      "caption": "A monkey looking at an image of a monkey, pixel art",
+      "paragraph1": "The phenomenon in which images are more likely to be remembered than are words. It is based on the notion that human memory is extremely sensitive to the symbolic modality of presentation of event information.",
+      "paragraph2": "One theory claims that pictures have advantages over words with regards to coding and retrieval of stored memory because pictures are coded more easily and can be retrieved from symbolic mode, while the dual coding process using words is more difficult for both coding and retrieval.",
+      "img": "../images/64-the-picture-superiority-effect.png"
+  },
+  {
+      "id": 65,
+      "span": "#65",
+      "title": "The Placebo Effect",
+      "caption": "The Placebo Effect",
+      "paragraph1": "The phenomenon in which a person's physical or mental health appears to improve after taking a placebo or ‘dummy' treatment. Placebo is Latin for 'I will please' and refers to a treatment that appears real, but is designed to have no therapeutic benefit.",
+      "paragraph2": "Its first demonstration occurred in 1799 when John Haygarth, a British physician, set out to disprove that expensive metal rods, when stroked over the body, could cure disease. Sensing that something wasn't right, he gave individuals fake, wooden tractors that looked the same as the original ones, and found that 4 out of 5 patients reported that their pain improved.",
+      "img": "../images/65-the-placebo-effect.png"
+  },
+  {
+      "id": 66,
+      "span": "#66",
+      "title": "Pluralistic Ignorance",
+      "caption": "Ignorance, oil painting",
+      "paragraph1": "A situation in which the minority position on a topic is wrongly perceived to be the majority position or where the majority is wrongly perceived to be the minority. A common example of pluralistic ignorance is The Bystander Effect, where individual onlookers believe others are considering taking action, and therefore themselves refrain from acting.",
+      "paragraph2": "Group identification is the root cause for many cases of pluralistic ignorance; that individuals often act out of a desire to be good group members but interpret others' similarly motivated behavior as reflecting personal beliefs and opinions.",
+      "img": "../images/66-pluralistic-ignorance.png"
+  },
+  {
+      "id": 67,
+      "span": "#67",
+      "title": "The Positivity Effect",
+      "caption": "Car driving into the sunset",
+      "paragraph1": "An age-related trend that favors positive over negative stimuli in cognitive processing. Relative to their younger counterparts, older people attend to and remember more positive than negative information, especially by reframing experiences as character-building or foundational.",
+      "paragraph2": "In attribution, the effect illustrates that people tend to evaluate the causes of positive behaviors as a consequence of habits and characteristics of themselves, whereas negative behaviors are attributed to situations, context or bad luck.",
+      "img": "../images/67-the-positivity-effect.png"
+  },
+  {
+      "id": 68,
+      "span": "#68",
+      "title": "The Pratfall Effect",
+      "caption": "The fall of the king",
+      "paragraph1": "The tendency for interpersonal appeal to change after an individual makes a mistake, depending on their perceived competence. In particular, highly competent individuals tend to become more likable after committing mistakes, while average seeming individuals become less likable even if they commit the same mistake.",
+      "paragraph2": "First described in an experiment in which subjects were played recordings of two men pretending to be contestants for a game show; a knowledgeable blunderer (who ‘by accident' spills coffee on his suit at the end of the interview), was found to be rated as more attractive.",
+      "img": "../images/68-the-pratfall-effect.png"
+  },
+  {
+      "id": 69,
+      "span": "#69",
+      "title": "The Primacy Effect",
+      "caption": "Looking at a grocery list",
+      "paragraph1": "A cognitive bias that results in a subject recalling primary information presented better than information presented later on. For example, a subject who reads a sufficiently long list of words is more likely to remember words toward the beginning than words in the middle. This effect is the reverse of the recency effect; the fact that we recall the latest information better.",
+      "paragraph2": "The primacy effect partnered with the anchoring bias results in an individual relying too heavily on the first piece of information they receive, and then neglecting any subsequent information learned.",
+      "img": "../images/69-the-primacy-effect.png"
+  },
+  {
+      "id": 70,
+      "span": "#70",
+      "title": "The Pseudocertainty Effect",
+      "caption": "When pigs fly",
+      "paragraph1": "The belief that an outcome is certain while it is still uncertain. This frequently occurs during multistage decision-making processes (such as those that occur in business projects) where earlier decisions are sometimes discarded in favor of newer conclusions.",
+      "paragraph2": "People tend to make risk-averse choices if the expected outcome is positive, but make risk-seeking choices to avoid negative outcomes. Choices can be affected by simply reframing the descriptions of the outcomes without changing the actual utility.",
+      "img": "../images/70-the-pseudocertainty-effect.png"
+  },
+  {
+      "id": 71,
+      "span": "#71",
+      "title": "The Pygmalion Effect",
+      "caption": "A sculptor, falling in love with his creation",
+      "paragraph1": "A psychological phenomenon in which high expectations lead to improved performance in a given area. The effect is named for the Greek myth of Pygmalion, the sculptor who fell so much in love with the perfectly beautiful statue he created that the statue came to life.",
+      "paragraph2": "It is important for us to understand how expectations impact our behavior and our subsequent outcomes so that we can properly mediate those expectations for the best possible outcomes, otherwise the effect can lead to differential treatment that may be unfair.",
+      "img": "../images/71-the-pygmalion-effect.png"
+  },
+  {
+      "id": 72,
+      "span": "#72",
+      "title": "The Rashomon Effect",
+      "caption": "Rashomon, Ukiyo-e",
+      "paragraph1": "A phenomenon wherein the same event is interpreted in vastly different ways by different people. The Rashomon effect is named after the popular 1950 Akira Kurosawa movie 'Rashomon' in which a murder is described in four different ways by four different witnesses of the same crime.",
+      "paragraph2": "It is often used to emphasize that people's perceptions about an event can differ considerably based on their individual personal experiences. Thus it is entirely possible that an event may be described in different ways by different people without any of the witnesses consciously lying.",
+      "img": "../images/72-the-rashomon-effect.png"
+  },
+  {
+      "id": 73,
+      "span": "#73",
+      "title": "The Recency Effect",
+      "caption": "Bear reading a newspaper",
+      "paragraph1": "A cognitive bias in which items, ideas, or arguments that came last are remembered more clearly than those that came first. It may occur because items briefly stored in short-term memory are easier to remember.",
+      "paragraph2": "Hermann Ebbinghaus discovered the serial position effect, in which the ability to accurately recall items from a list is dependent upon the location of the item on that list. Items at the beginning are also remembered better than those in the middle, as illustrated by the primacy effect.",
+      "img": "../images/73-the-recency-effect.png"
+  },
+  {
+      "id": 74,
+      "span": "#74",
+      "title": "The Rhyme-As-Reason Effect",
+      "caption": "The Pied Piper of Hamelin",
+      "paragraph1": "The human tendency to perceive rhyming statements as more truthful than those that don't rhyme; 'What sobriety conceals, alcohol reveals' seems somehow more accurate than 'What sobriety conceals, alcohol unmasks'.",
+      "paragraph2": "The Rhyme-as-Reason Effect was identified in 1999 by psychologists Matthew McGlone and Jessica Tofighbakhsh, who set out to show how poetic structure can influence our perception of truth. The effect holds true both for aphorisms and ad campaign slogans.",
+      "img": "../images/74-the-rhyme-as-reason-effect.png"
+  },
+  {
+      "id": 75,
+      "span": "#75",
+      "title": "The Ringelmann Effect",
+      "caption": "Tug of war",
+      "paragraph1": "The tendency for members of a group to become less productive as the size of their group increases. Discovered by French agricultural engineer Maximilien Ringelmann, the effect illustrates the inverse relationship that exists between the size of a group and the magnitude of individual contributions to the completion of a task.",
+      "paragraph2": "The effect is mainly attributed to two causes; decreased levels of motivation when members share the responsibility for a task, and inefficiencies arising when more individuals have to coordinate their efforts and actions.",
+      "img": "../images/75-the-ringelmann-effect.png"
+  },
+  {
+      "id": 76,
+      "span": "#76",
+      "title": "The Self-Fulfilling Prophecy",
+      "caption": "False prophet, pixel art",
+      "paragraph1": "Process through which an originally false expectation leads to its own confirmation. In a self-fulfilling prophecy an individual's expectations about another person or entity eventually result in the other person or entity acting in ways that confirm the expectations.",
+      "paragraph2": "A classic example is the bank failures during the Great Depression. Even banks on strong financial footing sometimes were driven to insolvency by bank runs. Often, a false rumor about a bank being insolvent ensued a panic, in which depositors rushed to withdraw their money.",
+      "img": "../images/76-the-self-fulfilling-prophecy.png"
+  },
+  {
+      "id": 77,
+      "span": "#77",
+      "title": "The Self-Reference Effect",
+      "caption": "A planet with a face, surrounded by smaller planets",
+      "paragraph1": "A tendency for people to encode information differently depending on whether they are implicated in the information. When people are asked to remember information related in some way to themselves, the recall rate can be improved.",
+      "paragraph2": "From an evolutionary perspective, the ability to prioritize our attention and memory to the events that are most relevant for us is very profitable. We are primed to react to events that are likely to concern us, and store information to inform our decisions in the future.",
+      "img": "../images/77-the-self-reference-effect.png"
+  },
+  {
+      "id": 78,
+      "span": "#78",
+      "title": "The Serial Position Effect",
+      "caption": "An oil painting of a freight train",
+      "paragraph1": "The tendency to recall the first and last items in a series best, and middle ones worst. When asked to recall a list of items, people tend to begin recall with the end of the list, recalling those items best (the recency effect). Among earlier list items, the first few items are recalled more frequently (the primacy effect).",
+      "paragraph2": "Amnesiacs with poor ability to form permanent long-term memories do not show a primacy effect, but do show a recency effect if recall comes immediately after study. People with Alzheimer's disease exhibit a reduced primacy effect but do not produce a recency effect in recall.",
+      "img": "../images/78-the-serial-position-effect.png"
+  },
+  {
+      "id": 79,
+      "span": "#79",
+      "title": "The Simon Effect",
+      "caption": "Choices, digital art",
+      "paragraph1": "The difference in accuracy or reaction time between trials in which stimulus and response are on the same side and trials in which they are on opposite sides, with responses being generally slower and less accurate when the stimulus and response are on opposite sides. ",
+      "paragraph2": "In its most renowned experiment, the words 'right' and ‘left' appear on a screen, but they are alternated between the right and left sides of the screen, confusing subjects who are to only press the ‘left' button when they see the ‘left' word, regardless of position.",
+      "img": "../images/79-the-simon-effect.png"
+  },
+  {
+      "id": 80,
+      "span": "#80",
+      "title": "The Sleeper Effect",
+      "caption": "The sleeping soldier",
+      "paragraph1": "A delayed increase in the impact of a persuasive message. In other words, a sleeper effect occurs when a communication shows no immediate persuasive effects, but, after some time, the recipient becomes more favorable toward the position advocated by the message.",
+      "paragraph2": "Discovered during WWII, the US Department of War set out to study whether propaganda films were working; soldiers shown a film about The Battle of Britain demonstrated no extra sympathy towards the British five days later, but after nine weeks a delayed response was identified. Its researchers theorized that over time, soldiers forgot that the message was propaganda.",
+      "img": "../images/80-the-sleeper-effect.png"
+  },
+  {
+      "id": 81,
+      "span": "#81",
+      "title": "The Spacing Effect",
+      "caption": "Jumping between books",
+      "paragraph1": "A phenomenon that demonstrates that learning is more effective when study sessions are spaced out. More information is encoded into long-term memory by spaced study sessions, also known as spaced repetition or spaced presentation, than by massed presentation (‘cramming').",
+      "paragraph2": "The effect is theorized to occur for a multitude of reasons. Popular speculated reasons for the spacing effect include concepts like how memories are encoded when we retrieve them, how repetition aids in remembering, and finally, the effects of Semantic Priming (associations between words) on recalling information.",
+      "img": "../images/81-the-spacing-effect.png"
+  },
+  {
+      "id": 82,
+      "span": "#82",
+      "title": "The Spotlight Effect",
+      "caption": "Standing in the spotlight",
+      "paragraph1": "The phenomenon by which people tend to believe they are being noticed more than they really are. Being constantly in the center of one's own world, an accurate evaluation of how much one is noticed by others is uncommon. The reason for the effect is the tendency to forget that although one is the center of one's own world, one is not the center of everyone else's.",
+      "paragraph2": "In one test, some students wore bright yellow Barry Manilow t-shirts to a large introductory psychology class. They then had the costume-wearers estimate how many people in the class they thought had noticed. They greatly overestimated.",
+      "img": "../images/82-the-spotlight-effect.png"
+  },
+  {
+      "id": 83,
+      "span": "#83",
+      "title": "Stockholm Syndrome",
+      "caption": "An oil painting of a bank safe",
+      "paragraph1": "A condition in which hostages develop a psychological bond with their captors during captivity. It results from a specific set of circumstances; namely the power imbalances contained in hostage-taking, kidnapping, and abusive relationships.",
+      "paragraph2": "This condition gets its name from a 1973 bank robbery incident that occurred in Stockholm. During the standoff, many of the captive bank employees became sympathetic toward the robbers. It has been noted however, that police were perceived to have acted with little care for the hostages' safety and also agitating the robbers.",
+      "img": "../images/83-stockholm-syndrome.png"
+  },
+  {
+      "id": 84,
+      "span": "#84",
+      "title": "The Stroop Effect",
+      "caption": "A red banana",
+      "paragraph1": "The delay in reaction time between congruent and incongruent stimuli. The effect has been used to create a psychological test (the Stroop test) that is widely used in clinical practice and investigation.",
+      "paragraph2": "When there is a mismatch between the name of a color (e.g., 'blue', 'green', or 'red') and the color it is printed on (i.e., the word 'red' printed in blue ink instead of red); participants take longer to name the color and are more prone to errors.",
+      "img": "../images/84-the-stroop-effect.png"
+  },
+  {
+      "id": 85,
+      "span": "#85",
+      "title": "The Subadditivity Effect",
+      "caption": "The statistics professor",
+      "paragraph1": "The tendency to judge probability of the whole to be less than the probabilities of the parts. Subjects rate the percentage of sales of a store of candy, ice-cream and other junk food, as higher (individually) than the percentage of junk food altogether, even though the two questions should yield the same result.",
+      "paragraph2": "Some attribute the causes of the effect to be the inability of humans to think statistically, the availability heuristic interfering with the accurate judging of probability and the framing effect, by which the context in which event is presented can affect its interpretations.",
+      "img": "../images/85-the-subadditivity-effect.png"
+  },
+  {
+      "id": 86,
+      "span": "#86",
+      "title": "The Subject-Expectancy Effect",
+      "caption": "A fish riding a bicycle",
+      "paragraph1": "A form of reactivity that occurs when a research subject expects a given result and therefore unconsciously affects the outcome, or reports the expected result. Because this effect can significantly bias the results of experiments, double-blind methodology is used to eliminate it.",
+      "paragraph2": "Like the observer-expectancy effect, it is often a cause of ‘odd' results in many experiments. The subject-expectancy effect is most commonly found in medicine, where it can result in the subject experiencing the placebo effect or nocebo effect, depending on how the influence pans out.",
+      "img": "../images/86-the-subject-expectancy-effect.png"
+  },
+  {
+      "id": 87,
+      "span": "#87",
+      "title": "The Tamagotchi Effect",
+      "caption": "Tamagotchi, pixel art",
+      "paragraph1": "The development of emotional attachment with machines, robots or software agents. It has been noticed that humans tend to attach emotionally to things which do not have any emotions.",
+      "paragraph2": "There are instances when people feel emotional about using their car keys, or with virtual pets. It is more prominent in applications which reflect some aspects of human behavior or characteristics, especially levels of artificial intelligence and automated knowledge processing.",
+      "img": "../images/87-the-tamagotchi-effect.png"
+  },
+  {
+      "id": 88,
+      "span": "#88",
+      "title": "The Telescoping Effect",
+      "caption": "Man with telescope, Ukiyo-e",
+      "paragraph1": "The temporal displacement of an event whereby people perceive recent events (backward telescoping) as being more remote than they are and distant events (forward telescoping) as being more recent than they are.",
+      "paragraph2": "Three years is approximately the time frame in which events switch from being displaced backward in time to forward in time, with events occurring three years in the past being equally likely to be reported with forward telescoping bias as with backward telescoping bias.",
+      "img": "../images/88-the-telescoping-effect.png"
+  },
+  {
+      "id": 89,
+      "span": "#89",
+      "title": "The Testing Effect",
+      "caption": "Watercolor of a girl taking a test",
+      "paragraph1": "A phenomenon in which long-term memory is increased when some of the learning period is devoted to retrieving information from memory. Cognitive psychologists are working with educators to look at how to take advantage of tests—not as an assessment tool, but as a teaching tool.",
+      "paragraph2": "In 1620, Francis Bacon wrote, 'If you read a piece of text through twenty times, you will not learn it by heart so easily as if you read it ten times while attempting to recite from time to time and consulting the text when your memory fails'.",
+      "img": "../images/89-the-testing-effect.png"
+  },
+  {
+      "id": 90,
+      "span": "#90",
+      "title": "The Tetris Effect",
+      "caption": "Household objects assembled like Tetris pieces",
+      "paragraph1": "A phenomenon that occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams. It takes its name from the video game Tetris.",
+      "paragraph2": "People who have played Tetris for a prolonged amount of time can find themselves thinking about ways different shapes in the real world can fit together, such as the boxes on a supermarket shelf or the buildings on a street.",
+      "img": "../images/90-the-tetris-effect.png"
+  },
+  {
+      "id": 91,
+      "span": "#91",
+      "title": "The Thatcher Effect",
+      "caption": "Stained glass of Margaret Thatcher",
+      "paragraph1": "A phenomenon where it becomes more difficult to detect local feature changes in an upside-down face, despite identical changes being obvious in an upright face. It is named after the then British prime minister Margaret Thatcher, on whose photograph the effect was first demonstrated. ",
+      "paragraph2": "The effect is illustrated by two originally identical photos, which are inverted. The second picture is altered so that the eyes and mouth are vertically flipped, though the changes are not immediately obvious until the image is viewed upright.",
+      "img": "../images/91-the-thatcher-effect.png"
+  },
+  {
+      "id": 92,
+      "span": "#92",
+      "title": "The Ventriloquism Effect",
+      "caption": "A ventriloquist and his puppet, pixel art",
+      "paragraph1": "The perception of speech sounds as coming from a direction other than their true direction, due to the influence of visual stimuli from an apparent speaker. Thus, when the illusion occurs, the speaker's voice is visually captured at the location of the dummy's moving mouth (rather than the speaker's carefully unmoving mouth).",
+      "paragraph2": "When two sensory stimuli are presented simultaneously, vision is capable of dominating and capturing the other. This occurs as visual cues can distract from other sensations, causing the origin of the stimulus to appear as if it is being produced by the visual cue.",
+      "img": "../images/92-the-ventriloquism-effect.png"
+  },
+  {
+      "id": 93,
+      "span": "#93",
+      "title": "The Venus Effect",
+      "caption": "Venus looking at her reflection in a mirror",
+      "paragraph1": "A perception phenomenon, named after various paintings of Venus gazing into a mirror. Viewers of such paintings have the impression that Venus is admiring her own reflection. However the viewer sees the face of Venus in the mirror, therefore what she sees in the reflection cannot be the same as what the viewer sees.",
+      "paragraph2": "This line of research highlights that most people may hold beliefs that are inconsistent with observable phenomena. This field is known as naive physics or intuitive physics. The effect is often used in cinema, where an actor is shown apparently looking at himself in the mirror.",
+      "img": "../images/93-the-venus-effect.png"
+  },
+  {
+      "id": 94,
+      "span": "#94",
+      "title": "The Von Restorff Effect",
+      "caption": "Two ducks and a goose",
+      "paragraph1": "When multiple homogeneous stimuli are presented, the stimulus that differs from the rest is more likely to be remembered. Coined by German psychiatrist Hedwig von Restorff who discovered that when participants were presented with a list of categorically similar items with one distinctive, isolated item on the list, memory for that item was improved.",
+      "paragraph2": "Empirical data has shown a strong relationship between the Von Restorff effect and measures of event-related potential in the brain. Specifically, evidence has shown that exposure to novel or isolated items on a list for free recall generates a response with a larger amplitude and this amplitude in turn predicts a higher likelihood of future recall and faster recognition of the items.",
+      "img": "../images/94-the-von-restorff-effect.png"
+  },
+  {
+      "id": 95,
+      "span": "#95",
+      "title": "The Well Travelled Road Effect",
+      "caption": "Oil painting of a country road",
+      "paragraph1": "A cognitive bias in which travellers will estimate the time taken to traverse routes differently depending on their familiarity with the route. Frequently travelled routes are assessed as taking a shorter time than unfamiliar routes.",
+      "paragraph2": "The effect is most salient when subjects are driving, but is still detectable for pedestrians and users of public transport. The effect has been observed for centuries but was first studied scientifically in the 1980s by Daniel Kahneman and Amos Tversky.",
+      "img": "../images/95-the-well-travelled-road-effect.png"
+  },
+  {
+      "id": 96,
+      "span": "#96",
+      "title": "The Werther Effect",
+      "caption": "The Sorrows of Young Werther",
+      "paragraph1": "A spike of copycat suicides after a widely publicized suicide, following Goethe's 1774 novel ‘The Sorrows of Young Werther'. The book triggered a fad, in that many young men imitated the eccentric style of dress of the book's hero. Some young men also killed themselves in the same way he did in the novel, causing the book to be banned in some countries.",
+      "paragraph2": "The term was coined by researcher David Phillips in 1974, when he found that every time The New York Times published a story about the suicide of a famous figure, in the following month the suicide rate increased by almost 12%.",
+      "img": "../images/96-the-werther-effect.png"
+  },
+  {
+      "id": 97,
+      "span": "#97",
+      "title": "The Westermarck Effect",
+      "caption": "Baby siblings",
+      "paragraph1": "A psychological hypothesis that people tend not to be attracted to peers with whom they lived like siblings before age six. This hypothesis was first proposed by Finnish anthropologist Edvard Westermarck in his book ‘The History of Human Marriage' as one explanation for the incest taboo.",
+      "paragraph2": "According to him, evolution has created a mechanism of aversion between family members. As people who during the first years of life are seen daily and belong to the same environment have a high probability of being related, the criterion that serves to suppress attraction is the existence of proximity during childhood.",
+      "img": "../images/97-the-westermarck-effect.png"
+  },
+  {
+      "id": 98,
+      "span": "#98",
+      "title": "The Word Superiority Effect",
+      "caption": "Panda bear reading a book",
+      "paragraph1": "The phenomenon of people having better recognition of letters presented within words as compared to isolated letters and to letters presented within nonword strings. One compelling explanation is that there are distinct 'levels' or systems for word recognition and for letter recognition.",
+      "paragraph2": "On one level are 'letter detectors' that may be activated based on the likelihood of certain letters being present (e.g., if all you see are curved lines, C, G, and O are more likely than X or Z). At the same time, 'word' detectors are activated based on the likelihood of certain words having occurred.",
+      "img": "../images/98-the-word-superiority-effect.png"
+  },
+  {
+      "id": 99,
+      "span": "#99",
+      "title": "The Worse-Than-Average Effect",
+      "caption": "Juggling on a unicycle",
+      "paragraph1": "The human tendency to underestimate one's achievements and capabilities in relation to others. It is the opposite of the usually pervasive better-than-average effect. This effect seems to occur when chances of success are perceived to be extremely rare.",
+      "paragraph2": "Traits which people tend to underestimate include juggling ability, the ability to ride a unicycle, the odds of living past 100 or of finding a U.S. twenty dollar bill on the ground in the next two weeks.",
+      "img": "../images/99-the-worse-than-average-effect.png"
+  },
+  {
+      "id": 100,
+      "span": "#100",
+      "title": "The Zeigarnik Effect",
+      "caption": "Waiter trying to remember an order",
+      "paragraph1": "A phenomenon that occurs when an activity that has been interrupted may be more readily recalled. It postulates that people remember unfinished or interrupted tasks better than completed tasks and was named after Lithuanian-Soviet psychologist Bluma Zeigarnik.",
+      "paragraph2": "While sitting in a busy restaurant in Vienna, she noted that the waiters had better memories of unpaid orders. Once the bill was paid, however, the waiters had difficulty remembering the exact details of the orders.",
+      "img": "../images/100-the-zeigarnik-effect.png"
+  }
+]

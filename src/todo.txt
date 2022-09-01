@@ -1,0 +1,125 @@
+3- About Modal: code + content
+
+4- Responsiveness
+
+5- Color thief + Blurry circles
+
+6- onLoadingComplete image transition
+
+
+x---x---x---x---x---x---x---x---x DEATH ABYSS x---x---x---x---x---x---x---x---x
+
+1- Write three full ones
+  Title, caption, etc. etc.
+
+2- Edit Hero + Json to be 2 paragraph structure
+
+3- Dall-e caption to be Dall-e prompt
+
+
+
+
+
+
+
+
+2- Figure out how to match click to result {effect}
+
+           {/* <Link
+                                to="top"
+                                smooth
+                                duration={500}
+                                className="cursor-pointer"
+                            >
+                                <li className="py-1">
+                                    01. The Ambiguity Effect
+                                </li>
+                            </Link> */}
+
+                                                        {/* <li className="py-1" id = '2' >02. Assembly bonus effect</li>
+                            <li className="py-1" >Audience effect</li>
+                            <li className="py-1">Baader–Meinhof effect</li>
+                            <li className="py-1">Barnum effect</li>
+                            <li className="py-1">Bezold effect</li>
+                            <li className="py-1">Birthday-number effect</li>
+                            <li className="py-1">Boomerang effect</li>
+                            <li className="py-1">Bouba/kiki effect</li>
+                            <li className="py-1">Bystander effect</li>
+                            <li className="py-1">Cheerleader effect</li>
+                            <li className="py-1">Cinderella effect</li>
+                            <li className="py-1">Cocktail party effect</li>
+                            <li className="py-1">Contrast effect</li>
+                            <li className="py-1">Coolidge effect</li>
+                            <li className="py-1">Crespi effect</li>
+                            <li className="py-1">Cross-race effect</li>
+                            <li className="py-1">Curse of knowledge</li>
+                            <li className="py-1">Diderot effect</li>
+                            <li className="py-1">Dunning–Kruger effect</li>
+                            <li className="py-1">Einstellung effect</li>
+                            <li className="py-1">Endowment effect</li>
+                            <li className="py-1">Face superiority effect</li>
+                            <li className="py-1">False fame effect</li>
+                            <li className="py-1">False-consensus effect</li>
+                            <li className="py-1">False-uniqueness effect</li>
+                            <li className="py-1">Fan effect</li>
+                            <li className="py-1">
+                                Florence Nightingale effect
+                            </li>
+                            <li className="py-1">Flynn effect</li> */}
+
+
+
+                            {/* <div>
+                        <ul className="py-1 text-xs">
+                            <Link
+                                to="top"
+                                smooth
+                                duration={500}
+                                className="cursor-pointer"
+                            >
+                                <li className="py-1">
+                                    01. The Ambiguity Effect
+                                </li>
+                            </Link>
+                            <li className="py-1">Marketing</li>
+                            <li className="py-1">Commerce</li>
+                            <li className="py-1">Insights</li>
+                            <li className="py-1">Analytics</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul className="py-1 text-xs">
+                            <Link
+                                to="top"
+                                smooth
+                                duration={500}
+                                className="cursor-pointer"
+                            >
+                                <li className="py-1">
+                                    01. The Ambiguity Effect
+                                </li>
+                            </Link>
+                            <li className="py-1">Marketing</li>
+                            <li className="py-1">Commerce</li>
+                            <li className="py-1">Insights</li>
+                            <li className="py-1">Analytics</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul className="py-1 text-xs">
+                            <Link
+                                to="top"
+                                smooth
+                                duration={500}
+                                className="cursor-pointer"
+                            >
+                                <li className="py-1">
+                                    01. The Ambiguity Effect
+                                </li>
+                            </Link>
+                            <li className="py-1">Marketing</li>
+                            <li className="py-1">Commerce</li>
+                            <li className="py-1">Insights</li>
+                            <li className="py-1">Analytics</li>
+                        </ul>
+                    </div> */}

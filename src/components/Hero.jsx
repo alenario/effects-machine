@@ -1,45 +1,70 @@
-import React from 'react'
-import { FaAngleRight } from 'react-icons/fa'
+import { FaAngleRight, FaChevronDown } from 'react-icons/fa'
+import { Link } from 'react-scroll'
+import Effects from '../effects.json'
 
-import $1ambiguity from '../images/1-ambiguity.png'
+const Hero = (props) => {  
+  
+  return (
+        <div name="home" className="h-[95vh] w-full relative">
+            <div className="max-w-screen-lg xl:max-w-screen-xl mx-auto flex flex-col-reverse items-center justify-center h-full px-6 md:flex-row pb-6">
+                <div className="flex flex-col justify-center h-full transitionB opacityTarget">
 
-const Hero = () => {
-    return (
-        <div name="home" className="h-screen w-full">
-          {/* h-[90vh] */}
-            <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-6 md:flex-row">
-                <div className="flex flex-col justify-center h-full">
+                    {/* The h-full here is what is making the responsive version so fluffed in height */}
                     <h2 className="text-2xl font-bold">
-                        <span className="md:text-4xl text-[#7f2ba3]">#01</span>{' '}
-                        The Ambiguity Effect
+                        <span className="md:text-4xl text-[#7f2ba3]">
+                            {Effects[props.effect].span}
+                        </span>{' '}
+                        {Effects[props.effect].title}
                     </h2>
-                    <p className="text-gray-500 py-4 max-w-xl">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing
-                        elit. Libero aut amet fugit quam, nostrum optio
-                        voluptates omnis facilis sequi fuga recusandae earum
-                        iste dolorem sapiente inventore consectetur atque autem
-                        repudiandae. Ea corporis eveniet omnis et nulla
-                        laudantium vitae, consequatur ut explicabo, obcaecati
-                        pariatur nisi, accusamus necessitatibus dicta similique
-                        harum porro?
-                    </p>
+                    <div className="text-gray-500 py-4 max-w-xl">
+                        <p>
+                            {Effects[props.effect].paragraph1}
+                            <br></br> <br></br>
+                            {Effects[props.effect].paragraph2}
+                        </p>
+                    </div>
                     <div>
-                        <button className="group text-white w-fit px-6 py-2 my-2 flex items-center rounded-md bg-gradient-to-tr from-[#7f2ba3] to-[#bd4dec] cursor-pointer">
+                        <Link
+                            to="list"
+                            smooth
+                            duration={500}
+                            className="drop-shadow-lg	group text-white w-fit px-6 py-2 my-2 flex items-center rounded-md bg-gradient-to-tr from-[#7f2ba3] to-[#bd4dec] cursor-pointer"
+                        >
                             View more effects
                             <span className="pl-2 group-hover:rotate-90 duration-150">
-                                <FaAngleRight size={20}/>
+                                <FaAngleRight size={20} />
                             </span>
-                        </button>
+                        </Link>
                     </div>
                 </div>
 
-                <div className="">
-                    <img
-                        className="rounded-md mx-auto w-2/3 md:w-full sm:scale-75"
-                        src={$1ambiguity}
-                        alt="Ambiguity effect"
-                    />
+                <div className="md:pb-12">
+                    <div className="relative transitionB opacityTarget">
+                        <img
+                            className="drop-shadow-md	rounded-md mx-auto w-3/5 md:w-full sm:scale-75"
+                            src={Effects[props.effect].img}
+                            alt="/"
+                        />
+                        <p className="absolute inset-x-0 lg:bottom-8 sm:block hidden md:bottom-5 sm:bottom-5 italic text-center text-sm text-gray-500">
+                            <b>Prompt:</b> {Effects[props.effect].caption}
+                        </p>
+                    </div>
                 </div>
+            </div>
+
+            <div>
+                <Link
+                    to="list"
+                    smooth
+                    duration={500}
+                    className="cursor-pointer absolute md:block hidden right-1/2 translate-x-1/2 translate-y-1/2 bottom-20 hover:scale-110 duration-200"
+                >
+                    <FaChevronDown
+                        className="animate-bounce"
+                        color="#7f2ba3"
+                        size={25}
+                    />
+                </Link>
             </div>
         </div>
     )
