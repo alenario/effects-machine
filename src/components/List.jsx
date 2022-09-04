@@ -17,6 +17,7 @@ const List = (props) => {
             element.classList.toggle('opacity0')
           })
         },700)
+        // Changes document title
         let theone = e.target.id - 1
         document.title = Effects[theone].title
 
