@@ -15,6 +15,13 @@ function App() {
 
     const handleOnClose = () => setShowModal(false)
 
+    if (showModal) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+
+
     return (
         <div>
             <Navbar showModal={showModal} setShowModal={setShowModal} />
