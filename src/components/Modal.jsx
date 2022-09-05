@@ -13,7 +13,7 @@ export const Modal = ({ visible, onClose }) => {
         <div
             id="modalContainer"
             onClick={handleOnClose}
-            className="fixed inset-0 bg-black bg-opacity-40 backdrop-blur-[2px] flex items-center m-auto px-6 text-gray-600 md:px-24 xl:px-6"
+            className="fixed inset-0 bg-black bg-opacity-40 backdrop-blur-[2px] flex items-center m-auto px-6 text-gray-600 md:px-24 xl:px-56"
         >
             {/* Grid starts */}
             <div class="grid">
@@ -41,7 +41,7 @@ export const Modal = ({ visible, onClose }) => {
 
                                 <div className="flex-col space-y-3 md:space-y-10 lg:space-y-36 sm:space-y-5 xs:space-y-3">
                                     <div>
-                                        <h4 class="pt-5 xs:pt-6 md:pt-10 text-xl font-semibold text-[#7f2ba3] sm:pt-8">
+                                        <h4 class="pt-5 xs:pt-6 md:pt-10 text-xl pr-6 font-semibold text-[#7f2ba3] sm:pt-8">
                                             "It is remarkable how much long-term
                                             advantage people like us have gotten
                                             by trying to be consistently not
