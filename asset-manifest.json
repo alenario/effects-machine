@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/effects-machine/static/css/main.53e3752b.css",
-    "main.js": "/effects-machine/static/js/main.0485d2eb.js",
+    "main.js": "/effects-machine/static/js/main.53dd18af.js",
     "static/media/0-the-effects-machine.png": "/effects-machine/static/media/0-the-effects-machine.420fb5df1098a16c8b55.png",
     "index.html": "/effects-machine/index.html",
     "main.53e3752b.css.map": "/effects-machine/static/css/main.53e3752b.css.map",
-    "main.0485d2eb.js.map": "/effects-machine/static/js/main.0485d2eb.js.map"
+    "main.53dd18af.js.map": "/effects-machine/static/js/main.53dd18af.js.map"
   },
   "entrypoints": [
     "static/css/main.53e3752b.css",
-    "static/js/main.0485d2eb.js"
+    "static/js/main.53dd18af.js"
   ]
 }
